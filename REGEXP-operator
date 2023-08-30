@@ -1,0 +1,6 @@
+-- //REGEXP operator (REGULAR EXPRESSION)
+-- ^ beginning
+-- $ end
+-- | logical or
+-- [abcd]
+-- [a-f]
